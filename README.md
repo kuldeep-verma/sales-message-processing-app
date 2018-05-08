@@ -1,6 +1,6 @@
 # sales-message-processing-app
 Takes an input file of sales message to process each message.
-One test file(sales.txt) is included in the src.
+Process all the records and logs it on console.
 
 ## Algorithm
 > Convert the message and create a product details object with type, price etc. values.
