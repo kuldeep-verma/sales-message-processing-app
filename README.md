@@ -14,6 +14,7 @@ Process all the records and logs it on console.
 ## Getting Started
 MessageProcessor is main class to run this application.
 Source included all required java files and sales message file as well.
+Any of the IDE can be used Eclipse, Netbeans etc.
 
 ## Requirements
 Java 8
